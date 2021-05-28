@@ -16,4 +16,4 @@ Esta se puede desplegar utilizando el template [VPC_ELB_EC2_RDS.yaml ](/code/VPC
 ###### Autor: Daniel Romero Sánchez
 ###### Grado de ingeniería informática
 ###### Asignatura: Administración de redes y sistemas operativos
-###### 12 de mayo del 2021
+###### 6 de mayo del 2021
